@@ -984,6 +984,10 @@
       "inh": "",
       "impl": []
     },
+    "DOMTransition": {
+      "inh": "",
+      "impl": []
+    },
     "DragEvent": {
       "inh": "MouseEvent",
       "impl": []
